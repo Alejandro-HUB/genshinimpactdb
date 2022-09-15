@@ -1,0 +1,83 @@
+[
+    {
+        "id": "hu_tao",
+        "icon": "images/hutao.webp",
+        "isVisible": true,
+        "color": null,
+        "name": "Hu Tao",
+        "title": "Fragrance in Thaw",
+        "description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+        "weapon_type": "Polearm",
+        "element": "Pyro",
+        "gender": "Female",
+        "substat": "CRIT DMG",
+        "affiliation": "Wangsheng Funeral Parlor",
+        "region": "Liyue",
+        "rarity": 5,
+        "birthday": [
+            15,
+            7
+        ],
+        "constellation": "Papilio Charontis",
+        "domain": "Taishan Mansion",
+        "cv": {
+            "english": "Brianna Knickerbocker",
+            "chinese": "陶典",
+            "japanese": "高橋李依",
+            "korean": "Kim Ha-ru"
+        }
+    },
+    {
+        "id": "shenhe",
+        "icon": "images/shenhe.webp",
+        "isVisible": true,
+        "color": null,
+        "name": "Shenhe",
+        "title": "Lonesome Transcendence",
+        "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+        "weapon_type": "Polearm",
+        "element": "Cryo",
+        "gender": "Female",
+        "substat": "ATK%",
+        "affiliation": "Cloud Retainer's Abode",
+        "region": "Liyue",
+        "rarity": 5,
+        "birthday": [
+            10,
+            3
+        ],
+        "constellation": "Crista Doloris",
+        "domain": "Taishan Mansion",
+        "cv": {
+            "english": "Chelsea Kwoka",
+            "chinese": "秦紫翼",
+            "japanese": "川澄綾子",
+            "korean": "Lee Hyeon-jin"
+        }
+    },
+    {
+        "id": "raiden_shogun",
+        "icon": "images/raiden.webp",
+        "isVisible": true,
+        "color": null,
+        "name": "Raiden Shogun",
+        "title": "Plane of Euthymia",
+        "description": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+        "weapon_type": "Polearm",
+        "element": "Electro",
+        "gender": "Female",
+        "substat": "Energy Recharge",
+        "affiliation": "Inazuma City",
+        "region": "Inazuma",
+        "rarity": 5,
+        "birthday": [26, 6],
+        "constellation": "Imperatrix Umbrosa",
+        "domain": "Violet Court",
+        "cv": {
+          "english": "Anne Yatco",
+          "chinese": "菊花花",
+          "japanese": "沢城みゆき",
+          "korean": "Park Ji-yoon"
+        }
+    }
+]
